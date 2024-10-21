@@ -3,6 +3,8 @@
 - Created a web application using Python and hosted using AWS, so that applicants can interact easily and imporove their chances of approval.
 - Used MLOps tool - Evidently.ai to detect data drift & various Machine Learning algorithm to develop the best model.
 
+- Dataset: https://www.kaggle.com/datasets/moro23/easyvisa-dataset/data
+
 
 <!-- - Given a set of features (continents, education, job experience, training, employment, age etc)
 - We have to predict weather the application for the visa will be approved or not. -->
