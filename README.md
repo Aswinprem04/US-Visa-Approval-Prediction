@@ -5,6 +5,8 @@
 
 - Dataset: https://www.kaggle.com/datasets/moro23/easyvisa-dataset/data
 
+![US-Visa-Approval](/image/visa.png)
+
 
 <!-- - Given a set of features (continents, education, job experience, training, employment, age etc)
 - We have to predict weather the application for the visa will be approved or not. -->
