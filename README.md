@@ -1,6 +1,6 @@
 # US-Visa-Approval
 - Developed a US Visa Approval system using Machine Learning and MongoDB, increasing the approval chances.
-- Created a web application using Python and hosted using AWS, so that applicants can interact easily and imporove their chances of approval.
+- Created a web application using Python and hosted using AWS, so that applicants can interact easily and improve their chances of approval.
 - Used MLOps tool - Evidently.ai to detect data drift & various Machine Learning algorithm to develop the best model.
 
 - Dataset: https://www.kaggle.com/datasets/moro23/easyvisa-dataset/data
